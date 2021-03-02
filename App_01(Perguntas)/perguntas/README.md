@@ -1,6 +1,6 @@
-# perguntas
+# App de perguntas
 
-A new Flutter project.
+Projeto feito baseado no curso apresentado nesse repósitório
 
 ## Getting Started
 
